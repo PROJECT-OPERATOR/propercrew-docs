@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Proper Crew Docs',
   tagline: '',
-  url: 'https://docs.projecttl.net',
+  url: 'https://docs.projecttl.net/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -101,7 +101,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://docs.projecttl.net/',
+            'https://github.com/PROJECT-OPERATOR/propercrew-docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
