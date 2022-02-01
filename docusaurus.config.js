@@ -101,7 +101,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/PROJECT-OPERATOR/propercrew-docs/tree/master',
+            'https://github.com/PROJECT-OPERATOR/propercrew-docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
